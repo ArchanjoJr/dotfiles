@@ -31,6 +31,6 @@ To use these dotfiles, follow the instructions below:
 
 4. Customize the dotfiles to your liking. You can modify the existing configuration files or add new ones as needed.
 
-## Updating the Dotfiles
-
-To update the dotfiles with the latest changes from this repository, simply pull the latest changes and re-run the installation script:
+# TODO:
+    - [] add script to install my basic cli tools
+    - [] add script to install my most used gui programs
